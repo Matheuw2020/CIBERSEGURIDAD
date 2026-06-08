@@ -1,0 +1,419 @@
+{
+  "main": {
+    "id": "f132e03a2ec8b0a7",
+    "type": "split",
+    "children": [
+      {
+        "id": "4b8ab3515ff1f121",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fd358b38fb6c6714",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "APUNTES/INTRODUCCION.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "INTRODUCCION"
+            }
+          },
+          {
+            "id": "b6b4a5e375086a5e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "APUNTES/LINUX/INTRODUCCION A LINUX.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "INTRODUCCION A LINUX"
+            }
+          },
+          {
+            "id": "c35cc88b3799269a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "APUNTES/LINUX/1. COMANDOS/1.0 INDICE.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1.0 INDICE"
+            }
+          },
+          {
+            "id": "5c2f3d1dccc16a2f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "APUNTES/LINUX/1. COMANDOS/1.1 NAVEGACION Y GESTION.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1.1 NAVEGACION Y GESTION"
+            }
+          },
+          {
+            "id": "1ff8f36385a9d987",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "APUNTES/LINUX/1. COMANDOS/1.2 ARCHIVOS Y CONTENIDOS.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1.2 ARCHIVOS Y CONTENIDOS"
+            }
+          },
+          {
+            "id": "2f6ac1f95f403f3c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "APUNTES/LINUX/1. COMANDOS/1.3 PERMISOS Y USUARIOS.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1.3 PERMISOS Y USUARIOS"
+            }
+          },
+          {
+            "id": "9230aa18cdcb88c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "APUNTES/LINUX/1. COMANDOS/1.4 PROCESOS Y SISTEMA.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1.4 PROCESOS Y SISTEMA"
+            }
+          },
+          {
+            "id": "3b55c50bb00838d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "APUNTES/LINUX/1. COMANDOS/1.5 COMPRESION Y EMPAQUETADO.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1.5 COMPRESION Y EMPAQUETADO"
+            }
+          },
+          {
+            "id": "bebf84bb16009715",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "APUNTES/LINUX/1. COMANDOS/1.6 REDES Y CONEXION.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1.6 REDES Y CONEXION"
+            }
+          },
+          {
+            "id": "bf0ea9fdfcd6fee9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "APUNTES/LINUX/2. PERMISOS Y ATRIBUTOS/2.1 PERMISOS.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2.1 PERMISOS"
+            }
+          },
+          {
+            "id": "0b3d7994a368d488",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "APUNTES/LINUX/2. PERMISOS Y ATRIBUTOS/2.2 PERMISOS ESPECIALES.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2.2 PERMISOS ESPECIALES"
+            }
+          },
+          {
+            "id": "cd809404e61d3300",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "APUNTES/INTRODUCCION.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "INTRODUCCION"
+            }
+          },
+          {
+            "id": "ff96db97b72e2814",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "APUNTES/LINUX/3. SISTEMA Y CONFIGURACION/3.1 INTRODUCCION.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3.1 INTRODUCCION"
+            }
+          },
+          {
+            "id": "2807e315bde44a97",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "APUNTES/LINUX/3. SISTEMA Y CONFIGURACION/3.2 ARCHIVOS Y CONTENIDOS.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3.2 ARCHIVOS Y CONTENIDOS"
+            }
+          },
+          {
+            "id": "301b793f07f7dc8e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "APUNTES/LINUX/INTRODUCCION A LINUX.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "INTRODUCCION A LINUX"
+            }
+          }
+        ],
+        "currentTab": 14
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "47459e3c0ebec550",
+    "type": "split",
+    "children": [
+      {
+        "id": "854ebb900d9a1eb3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dd88db410fa43bba",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "79d6088dcaeab9d4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "6685a924b8526971",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "35501454a43fdde6",
+    "type": "split",
+    "children": [
+      {
+        "id": "efab1b6c19f09208",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6604e46425dabf0c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes de README"
+            }
+          },
+          {
+            "id": "2754ce0e7327e67a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes de README"
+            }
+          },
+          {
+            "id": "94b3b9eed6485da9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "d40cfa3ac46ee29b",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas las propiedades"
+            }
+          },
+          {
+            "id": "082aadf84b18a236",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema de README"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "301b793f07f7dc8e",
+  "lastOpenFiles": [
+    "APUNTES/LINUX/3. SISTEMA Y CONFIGURACION/3.3 REDES Y CONEXION.md",
+    "APUNTES/LINUX/3. SISTEMA Y CONFIGURACION/3.2 ARCHIVOS Y CONTENIDOS.md",
+    "APUNTES/LINUX/3. SISTEMA Y CONFIGURACION/3.1 INTRODUCCION.md",
+    "APUNTES/LINUX/2. PERMISOS Y ATRIBUTOS/2.1 PERMISOS.md",
+    "APUNTES/INTRODUCCION.md",
+    "APUNTES/LINUX/INTRODUCCION A LINUX.md",
+    "APUNTES/LINUX/Untitled.canvas",
+    "APUNTES/LINUX/2. PERMISOS Y ATRIBUTOS/2.3 ATRIBUTOS EXTENDIDOS.md",
+    "APUNTES/LINUX/2. PERMISOS Y ATRIBUTOS/2.2 PERMISOS ESPECIALES.md",
+    "APUNTES/LINUX/1. COMANDOS/1.6 REDES Y CONEXION.md",
+    "APUNTES/LINUX/1. COMANDOS/1.5 COMPRESION Y EMPAQUETADO.md",
+    "APUNTES/LINUX/1. COMANDOS/1.4 PROCESOS Y SISTEMA.md",
+    "APUNTES/LINUX/1. COMANDOS/1.3 PERMISOS Y USUARIOS.md",
+    "APUNTES/LINUX/1. COMANDOS/1.2 ARCHIVOS Y CONTENIDOS.md",
+    "APUNTES/LINUX/1. COMANDOS/1.0 INDICE.md",
+    "APUNTES/LINUX/1. COMANDOS/1.1 NAVEGACION Y GESTION.md",
+    "APUNTES/LINUX/3. SISTEMA Y CONFIGURACION",
+    "APUNTES/LINUX/2. PERMISOS Y ATRIBUTOS",
+    "APUNTES/LINUX/1. COMANDOS",
+    "APUNTES/LINUX",
+    "APUNTES",
+    "Pasted image 20260531122034.png",
+    "Pasted image 20260531121533.png",
+    "Pasted image 20260531121416.png",
+    "Untitled.canvas",
+    "Untitled 1.canvas",
+    "README.md",
+    "2026-05-29.md",
+    "CYBERSECURITY/INTRODUCCION/THE WORLD OF CYBERSECURITY.md",
+    "CYBERSECURITY/INTRODUCCION",
+    "Untitled.base",
+    "Untitled 1.base",
+    "CYBERSECURITY"
+  ]
+}
