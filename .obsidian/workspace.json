@@ -209,12 +209,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "APUNTES/LINUX/INTRODUCCION A LINUX.md",
+                "file": "APUNTES/LINUX/3. SISTEMA Y CONFIGURACION/3.3 REDES Y CONEXION.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "INTRODUCCION A LINUX"
+              "title": "3.3 REDES Y CONEXION"
             }
           }
         ],
@@ -241,7 +241,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Explorador de archivos"
             }
           },
           {
@@ -371,33 +371,35 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false
     }
   },
   "active": "301b793f07f7dc8e",
   "lastOpenFiles": [
-    "APUNTES/LINUX/3. SISTEMA Y CONFIGURACION/3.3 REDES Y CONEXION.md",
     "APUNTES/LINUX/3. SISTEMA Y CONFIGURACION/3.2 ARCHIVOS Y CONTENIDOS.md",
-    "APUNTES/LINUX/3. SISTEMA Y CONFIGURACION/3.1 INTRODUCCION.md",
-    "APUNTES/LINUX/2. PERMISOS Y ATRIBUTOS/2.1 PERMISOS.md",
-    "APUNTES/INTRODUCCION.md",
-    "APUNTES/LINUX/INTRODUCCION A LINUX.md",
-    "APUNTES/LINUX/Untitled.canvas",
     "APUNTES/LINUX/2. PERMISOS Y ATRIBUTOS/2.3 ATRIBUTOS EXTENDIDOS.md",
+    "APUNTES/LINUX/3. SISTEMA Y CONFIGURACION/3.1 INTRODUCCION.md",
     "APUNTES/LINUX/2. PERMISOS Y ATRIBUTOS/2.2 PERMISOS ESPECIALES.md",
+    "APUNTES/LINUX/2. PERMISOS Y ATRIBUTOS/2.1 PERMISOS.md",
     "APUNTES/LINUX/1. COMANDOS/1.6 REDES Y CONEXION.md",
     "APUNTES/LINUX/1. COMANDOS/1.5 COMPRESION Y EMPAQUETADO.md",
     "APUNTES/LINUX/1. COMANDOS/1.4 PROCESOS Y SISTEMA.md",
     "APUNTES/LINUX/1. COMANDOS/1.3 PERMISOS Y USUARIOS.md",
     "APUNTES/LINUX/1. COMANDOS/1.2 ARCHIVOS Y CONTENIDOS.md",
-    "APUNTES/LINUX/1. COMANDOS/1.0 INDICE.md",
     "APUNTES/LINUX/1. COMANDOS/1.1 NAVEGACION Y GESTION.md",
+    "APUNTES/}",
+    "APUNTES/invalid.txt",
+    "APUNTES/LINUX/INTRODUCCION A LINUX.md",
+    "APUNTES/LINUX/3. SISTEMA Y CONFIGURACION/3.3 REDES Y CONEXION.md",
+    "APUNTES/LINUX/1. COMANDOS/1.0 INDICE.md",
+    "APUNTES/INTRODUCCION.md",
+    "APUNTES/LINUX/Untitled.canvas",
     "APUNTES/LINUX/3. SISTEMA Y CONFIGURACION",
     "APUNTES/LINUX/2. PERMISOS Y ATRIBUTOS",
     "APUNTES/LINUX/1. COMANDOS",
@@ -413,7 +415,6 @@
     "CYBERSECURITY/INTRODUCCION/THE WORLD OF CYBERSECURITY.md",
     "CYBERSECURITY/INTRODUCCION",
     "Untitled.base",
-    "Untitled 1.base",
-    "CYBERSECURITY"
+    "Untitled 1.base"
   ]
 }
